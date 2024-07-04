@@ -57,3 +57,7 @@ footer {
     height: auto; /* Maintain aspect ratio */
     margin: 10px 20px 0px 10px;
 }
+
+.gg{
+    opacity: 0.2;
+}
