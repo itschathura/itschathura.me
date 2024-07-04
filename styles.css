@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    background-image: url('https://r4.wallpaperflare.com/wallpaper/168/817/180/tuning-nissan-skyline-gt-r-r35-liberty-walk-nissan-gtr-wallpaper-e970b8ed91da3deb96a778af1091d69d.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 0px 30px;
+    direction: rtl;
+}
+
+.logo {
+    font-family: 'Ethnocentric Rg', sans-serif;
+    font-size: 32px;
+    text-align: right;
+}
+
+.logoa{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.content {
+    text-align: center;
+    padding: 50px;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+footer {
+    background-color: rgba(255, 255, 255, 1);
+    text-align: center;
+    padding: 20px 0;
+    color: black;font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.contact {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0%;
+}
+
+.contact img {
+    width: 50px; /* Adjust the width as per your preference */
+    height: auto; /* Maintain aspect ratio */
+    margin: 10px 20px 0px 10px;
+}
