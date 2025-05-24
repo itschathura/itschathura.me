@@ -38,10 +38,10 @@ body {
 }
 
 footer {
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(0, 0, 0, 0.9);
     text-align: center;
     padding: 20px 0;
-    color: black;font-size: 30px;
+    color: white;font-size: 30px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
